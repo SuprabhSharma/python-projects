@@ -1,3 +1,5 @@
+
+
 print("select the operation you want to perform :\n 1) addition\n 2) subtraction\n 3)division\n 4) multiplication\n ")   
 def calc():
    
